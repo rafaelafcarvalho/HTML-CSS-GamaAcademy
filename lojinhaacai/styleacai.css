@@ -1,0 +1,9 @@
+h1,body {
+    text-align:center;
+}
+button {
+    color: rgb(255, 255, 255); background-color: salmon;
+}
+.copy {
+    font-size: 10px;
+}
